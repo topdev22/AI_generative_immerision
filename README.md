@@ -1,7 +1,7 @@
 # Generative AI Immersion Day
 
 
-<span style="color:red">**This workshop has moved to an official AWS repository and can now be found [here](https://github.com/aws-samples/generative-ai-on-aws-immersion-day). This repository is no longer being maintained.**</span>
+<span style="color:red">**This workshop has moved to an official AWS repository and can now be found [here]. This repository is no longer being maintained.**</span>
 
 This workshop is set up following the popular AWS Immersion Day format. It means to provide guidance on how to get started with Generative AI on AWS. The Immersion Day is split up into the following four blocks, consisting of a theory section covered by slides as well of a hands-on lab each:
 - Introduction Generative AI & Large Language Models, Large Language Model deployment & inference optimization
@@ -114,7 +114,7 @@ Congratulations!! You have successfully launched a SageMaker Studio Notebook and
 ## Clone Repository
 
 ```console
-!git clone https://github.com/aristsakpinis93/generative-ai-immersion-day
+!git clone https://github.com/topdev22/AI_generative_immerision
 ```
 
 After completion of step 2 you will have llm-immersion-day folder created in left panel of the studio:
